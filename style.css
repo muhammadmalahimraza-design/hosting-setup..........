@@ -37,7 +37,7 @@ body {
 
 .logo {
     text-align: center;
-    margin-bottom: 35px;
+    display: flex;
 }
 
 .logo img {
